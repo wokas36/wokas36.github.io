@@ -7,9 +7,11 @@ sitemap: false
 permalink: /call_for_papers
 ---
 
+**We invite researchers working on topics such as predictive modelling of biological function and properties, generative and simulation-based approaches, adaptive experimental design, data integration, and other emerging areas to join this vibrant exchange on shaping the next generation of AI-enabled biological discovery.**
+
 # Call for Papers 
 
-**We welcome extended abstracts (2-4 pages, non-archival), including works-in-progress and preliminary results. Topics of interest include but are not limited to:**
+<div style="text-align: justify">We welcome extended abstracts (2-4 pages, non-archival), including works-in-progress and preliminary results. Topics of interest include but are not limited to:
 
 * Prediction of biomolecular structures, properties, complexes, and interactions
 * Generative models for biological sequences and structures
@@ -21,6 +23,8 @@ permalink: /call_for_papers
 * Foundation models for biology
 * Novel applications of AI in computational and experimental biology
 * Position papers and/or posters addressing fundamental challenges or limitations of AI in computational and experimental biology
+
+<div style="text-align: justify">Accepted submissions will be presented posters, with a select few being chosen as short spotlight talks, and will be made available on the workshop website. This is a non-archival workshop, allowing authors to publish full versions of their work at future venues.
 
 <!-- We are  looking for new group members with passion, talent, and grit!
 
