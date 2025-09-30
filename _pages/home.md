@@ -75,9 +75,14 @@ We are currently building up our instruments right in the center of Munich, in t
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!** -->
     
 <figure class="fifth" style="display: flex; justify-content: center; gap: 30px; align-items: center; margin: 20px 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/data61.jpg" style="width: 140px; height: auto;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ANU.png" style="width: 140px; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/data61.jpg" style="width: 140px; height: auto; margin: 0 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ANU.png" style="width: 140px; height: auto; margin: 0 15px;">
 </figure>
+    
+<!-- <figure class="fifth" style="text-align: center; margin: 20px 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/data61.jpg" style="width: 140px; height: auto; margin: 0 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ANU.png" style="width: 140px; height: auto; margin: 0 15px;">
+</figure> -->
 
 <!-- <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/data61.jpg" style="width: 130px">
