@@ -36,9 +36,9 @@ permalink: /call_for_papers
     - Notification: 12/11/2025 12:59PM UTC-0
     - Camera-ready: 20/11/2025 12:59PM UTC-0
     
-# About Workshop
+# Workshop Information
     
-* Registration Fees: Student $150 AUD | Non-student $250 AUD
+* Registration fees: Student $150 AUD & Non-student $250 AUD
 * Venue: The Australian National University (ANU), Canberra, Australia
 * Workshop day: 02/12/2025 9:00AM - 12:30PM
 
