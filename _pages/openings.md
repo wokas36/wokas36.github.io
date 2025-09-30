@@ -3,7 +3,7 @@ title: "AIML-CEB - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-<!-- permalink: /vacancies -->
+<!-- permalink: /vacancies call_for_papers-->
 permalink: /call_for_papers
 ---
 
