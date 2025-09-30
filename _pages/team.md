@@ -79,7 +79,7 @@ permalink: /team/
 
 
 ## Advising Committee
-{% assign number_printed = 0 %}
+<!-- {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -90,7 +90,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--       <br>Email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -132,7 +132,7 @@ permalink: /team/
 {% endif %}
 
 
-## Alumni
+## Alumni -->
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -147,6 +147,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
 <!--   <i>{{ member.duration }} <br> Role: {{ member.info }}</i> -->
+  <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
