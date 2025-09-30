@@ -35,21 +35,21 @@ permalink: /invited_speakers/
  </div>
 </div>
 
-<!-- {% assign number_printed = number_printed | plus: 1 %}
+{% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %} -->
+{% if even_odd == 1 %}
 </div>
-<!-- {% endif %}
+{% endif %}
 
 {% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %} -->
+{% if even_odd == 1 %}
 </div>
-<!-- {% endif %} -->
+{% endif %}
 
-<!-- <p> &nbsp; </p> -->
+<p> &nbsp; </p>
 
 
 <!-- ## Patents
