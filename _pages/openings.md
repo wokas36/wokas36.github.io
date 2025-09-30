@@ -35,7 +35,7 @@ permalink: /call_for_papers/
     - Submission deadline: 29/10/2025 12:59PM UTC-0
     - Notification: 12/11/2025 12:59PM UTC-0
     - Camera-ready: 20/11/2025 12:59PM UTC-0
-* Registration fees: Student $150 AUD & Non-student $250 AUD
+* Registration fees: [AJCAI 2025 Registration Options] (https://ajcai2025.org/registration.html)
 * Venue: The Australian National University (ANU), Canberra, Australia
 * Workshop date & time: 02/12/2025 & 9:00AM - 12:30PM
 
@@ -63,3 +63,9 @@ If you are a Master student at Leiden University looking for a Master project, c
 
 ### Bsc / Master students from elsewhere
 If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+</figure>
+ -->
