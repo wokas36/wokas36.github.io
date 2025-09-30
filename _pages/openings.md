@@ -35,7 +35,7 @@ permalink: /call_for_papers/
     - Submission deadline: 29/10/2025 12:59PM UTC-0
     - Notification: 12/11/2025 12:59PM UTC-0
     - Camera-ready: 20/11/2025 12:59PM UTC-0
-* Registration fees: [AJCAI 2025 Registration Options](https://ajcai2025.org/registration.html)
+* Registration fees: [AJCAI Registration Options](https://ajcai2025.org/registration.html)
 * Venue: The Australian National University (ANU), Canberra, Australia
 * Workshop date & time: 02/12/2025 & 9:00AM - 12:30PM
 
