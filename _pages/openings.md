@@ -26,7 +26,7 @@ permalink: /call_for_papers
 
 <div style="text-align: justify">Accepted submissions will be presented posters, with a select few being chosen as short spotlight talks, and will be made available on the workshop website. This is a non-archival workshop, allowing authors to publish full versions of their work at future venues.
     
-# Paper Submission Guidelines
+# Workshop & Paper Submission Guidelines
     
 * Format: extended abstracts (2-4 pages)
 * Paper submission link: [OpenReview](https://openreview.net/group?id=AJCAI/2025/Workshop/AIML-CEB)
@@ -35,12 +35,9 @@ permalink: /call_for_papers
     - Submission deadline: 29/10/2025 12:59PM UTC-0
     - Notification: 12/11/2025 12:59PM UTC-0
     - Camera-ready: 20/11/2025 12:59PM UTC-0
-    
-# Workshop Information
-    
 * Registration fees: Student $150 AUD & Non-student $250 AUD
 * Venue: The Australian National University (ANU), Canberra, Australia
-* Workshop day: 02/12/2025 9:00AM - 12:30PM
+* Workshop date & time: 02/12/2025 & 9:00AM - 12:30PM
 
 <!-- We are  looking for new group members with passion, talent, and grit!
 
