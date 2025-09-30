@@ -7,7 +7,7 @@ sitemap: false
 permalink: /call_for_papers
 ---
 
-**We invite researchers working on topics such as predictive modelling of biological function and properties, generative and simulation-based approaches, adaptive experimental design, data integration, and other emerging areas to join this vibrant exchange on shaping the next generation of AI-enabled biological discovery.**
+<div style="text-align: justify">**We invite researchers working on topics such as predictive modelling of biological function and properties, generative and simulation-based approaches, adaptive experimental design, data integration, and other emerging areas to join this vibrant exchange on shaping the next generation of AI-enabled biological discovery.**
 
 # Call for Papers 
 
@@ -25,6 +25,16 @@ permalink: /call_for_papers
 * Position papers and/or posters addressing fundamental challenges or limitations of AI in computational and experimental biology
 
 <div style="text-align: justify">Accepted submissions will be presented posters, with a select few being chosen as short spotlight talks, and will be made available on the workshop website. This is a non-archival workshop, allowing authors to publish full versions of their work at future venues.
+    
+# Submission Guidelines
+    
+* Format: extended abstracts (2-4 pages)
+* Paper submission link: [OpenReview](https://openreview.net/group?id=AJCAI/2025/Workshop/AIML-CEB)
+* Key dates:
+    - Submission deadline: 29/10/2025
+    - Notification: 12/11/2025
+    - Camera-ready: 20/11/2025
+    - Workshop day: 02/12/2025
 
 <!-- We are  looking for new group members with passion, talent, and grit!
 
