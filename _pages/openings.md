@@ -1,16 +1,28 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "AIML-CEB - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+<!-- permalink: /vacancies -->
+permalink: /call_for_papers
 ---
 
-# Open positions
+# Call for Papers 
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We welcome extended abstracts (2-4 pages, non-archival), including works-in-progress and preliminary results. Topics of interest include but are not limited to:**
 
-We are  looking for new group members with passion, talent, and grit!
+* Prediction of biomolecular structures, properties, complexes, and interactions
+* Generative models for biological sequences and structures
+* Bayesian optimization and active learning for guided biological experimentation
+* Geometric and symmetry-aware deep learning for molecular representations
+* Interpretable and uncertainty-aware models for biological design
+* Multi-modal learning over sequence, structure, and functional data
+* Benchmarks, datasets, and evaluation protocols for biological design tasks
+* Foundation models for biology
+* Novel applications of AI in computational and experimental biology
+* Position papers and/or posters addressing fundamental challenges or limitations of AI in computational and experimental biology
+
+<!-- We are  looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 
@@ -39,3 +51,4 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure>
+ -->
