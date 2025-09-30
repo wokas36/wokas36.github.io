@@ -1,5 +1,5 @@
 ---
-title: "AIML-CEB - Vacancies"
+title: "AIML-CEB - Call for Papers"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -7,7 +7,7 @@ sitemap: false
 permalink: /call_for_papers
 ---
 
-<div style="text-align: justify">**We invite researchers working on topics such as predictive modelling of biological function and properties, generative and simulation-based approaches, adaptive experimental design, data integration, and other emerging areas to join this vibrant exchange on shaping the next generation of AI-enabled biological discovery.**
+<div style="text-align: justify">We invite researchers working on topics such as predictive modelling of biological function and properties, generative and simulation-based approaches, adaptive experimental design, data integration, and other emerging areas to join this vibrant exchange on shaping the next generation of AI-enabled biological discovery.
 
 # Call for Papers 
 
@@ -26,7 +26,7 @@ permalink: /call_for_papers
 
 <div style="text-align: justify">Accepted submissions will be presented posters, with a select few being chosen as short spotlight talks, and will be made available on the workshop website. This is a non-archival workshop, allowing authors to publish full versions of their work at future venues.
     
-# Submission Guidelines
+# Paper Submission Guidelines
     
 * Format: extended abstracts (2-4 pages)
 * Paper submission link: [OpenReview](https://openreview.net/group?id=AJCAI/2025/Workshop/AIML-CEB)
@@ -35,9 +35,12 @@ permalink: /call_for_papers
     - Submission deadline: 29/10/2025 12:59PM UTC-0
     - Notification: 12/11/2025 12:59PM UTC-0
     - Camera-ready: 20/11/2025 12:59PM UTC-0
-    - Workshop: 02/12/2025 9:00AM - 12:30PM
+    
+# About Workshop
+    
 * Registration Fees: Student $150 AUD | Non-student $250 AUD
 * Venue: The Australian National University (ANU), Canberra, Australia
+* Workshop day: 02/12/2025 9:00AM - 12:30PM
 
 <!-- We are  looking for new group members with passion, talent, and grit!
 

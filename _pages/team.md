@@ -33,7 +33,7 @@ permalink: /team/
   <li> {{ member.education1 }} </li>
   {% endif %}
 
-<!--   {% if member.number_educ == 2 %}
+  {% if member.number_educ == 2 %}
   <li> {{ member.education1 | markdownify}} </li>
   <li> {{ member.education2 | markdownify}} </li>
   {% endif %}
@@ -57,7 +57,7 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %} -->
+  {% endif %}
 
   </ul>
 </div>

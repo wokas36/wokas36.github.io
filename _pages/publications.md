@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Publications"
+title: "AIML-CEB - Invited Speakers"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "AIML-CEB -- Invited Speakers."
 sitemap: false
-permalink: /publications/
+permalink: /invited_speakers/
 ---
 
 
