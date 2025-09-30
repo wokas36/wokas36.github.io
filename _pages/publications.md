@@ -35,7 +35,7 @@ permalink: /invited_speakers/
  </div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+<!-- {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
 </div>
@@ -45,11 +45,11 @@ permalink: /invited_speakers/
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+{% if even_odd == 1 %} -->
+<!-- </div> -->
+<!-- {% endif %} -->
 
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p> -->
 
 
 <!-- ## Patents
