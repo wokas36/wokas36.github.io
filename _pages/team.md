@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team Members
 
 <!--  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
@@ -29,7 +29,7 @@ permalink: /team/
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+<!--   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -57,7 +57,7 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endif %} -->
 
   </ul>
 </div>
