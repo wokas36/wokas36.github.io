@@ -93,7 +93,7 @@ permalink: /team/
   <i>{{ member.info }} <br>Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
-<!--   {% if member.number_educ == 1 %}
+  {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -113,7 +113,7 @@ permalink: /team/
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %} -->
+  {% endif %}
 
   </ul>
 </div>
@@ -132,7 +132,7 @@ permalink: /team/
 {% endif %}
 
 
-<!-- ## Alumni
+## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -163,7 +163,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %} -->
+{% endif %}
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
