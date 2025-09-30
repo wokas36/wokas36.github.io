@@ -4,7 +4,7 @@ layout: textlay
 excerpt: "Openings"
 sitemap: false
 <!-- permalink: /vacancies call_for_papers-->
-permalink: /call_for_papers
+permalink: /call_for_papers/
 ---
 
 <div style="text-align: justify">We invite researchers working on topics such as predictive modelling of biological function and properties, generative and simulation-based approaches, adaptive experimental design, data integration, and other emerging areas to join this vibrant exchange on shaping the next generation of AI-enabled biological discovery.
