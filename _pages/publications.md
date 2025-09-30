@@ -27,29 +27,29 @@ permalink: /invited_speakers/
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p style="text-align: justify;">{{ publi.description }}</p>
-<!--   <p><em>{{ publi.authors }}</em></p>
+  <p style="text-align: left;">{{ publi.description }}</p>
+<!--   <p><em>{{ publi.authors }}</em></p> -->
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+<!--   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p> -->
  </div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+<!-- {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+{% if even_odd == 1 %} -->
 </div>
-{% endif %}
+<!-- {% endif %}
 
 {% endif %}
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% if even_odd == 1 %} -->
 </div>
-{% endif %}
+<!-- {% endif %} -->
 
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p> -->
 
 
 <!-- ## Patents
