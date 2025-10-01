@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+**The AIML in Computational and Experimental Biology (AIML-CEB) Workshop will be held at [AJCAI 2025](https://ajcai2025.org/), hosted at the Australian National University (ANU), Canberra, on December 2nd, 2025.**
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -50,8 +52,6 @@ permalink: /
 </div>
 
 <!-- <div style="text-align: justify">AI is rapidly transforming biology across the spectrum, from in-silico modelling to in-vitro and in-vivo experimentation. Advances in structure prediction, generative design, simulators, and adaptive laboratory workflows are enabling scientists to predict, design, and optimise biological systems with unprecedented precision. These developments are driving breakthroughs across structural biology, synthetic biology, systems biology, and bioengineering, opening the door to more predictive, automated, and data-driven experimentation. -->
-
-**The AIML in Computational and Experimental Biology (AIML-CEB) Workshop will be held at [AJCAI 2025](https://ajcai2025.org/), hosted at the Australian National University (ANU), Canberra, on December 2nd, 2025.**
 
 <div style="text-align: justify">AIML-CEB workshop aims to foster meaningful collaboration between the AI, computational biology, and experimental biology communities by bringing together leading Australasian researchers from academia, industry, and applied research. Through interdisciplinary dialogue, we will explore pressing challenges, limitations and emerging opportunities at the intersection of AI, data-driven modelling, simulation, and laboratory experimentation. By integrating advances in generative modelling, predictive inference, high-fidelity simulators, and adaptive experimental design, we aim to accelerate and shape the future of intelligent, reproducible, and impactful biological research.
 

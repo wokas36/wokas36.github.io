@@ -30,6 +30,7 @@ permalink: /call_for_papers/
     
 * Format: extended abstracts (2-4 pages)
 * Paper submission link: [OpenReview](https://openreview.net/group?id=AJCAI/2025/Workshop/AIML-CEB)
+* All papers must be submitted electronically as PDF files and formatted according to Springer’s [manuscript submission guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 * Key dates:
     - Submission start: 01/10/2025 12:59PM UTC-0
     - Submission deadline: 29/10/2025 12:59PM UTC-0
@@ -38,6 +39,16 @@ permalink: /call_for_papers/
 * Registration fees: [AJCAI Registration Options](https://ajcai2025.org/registration.html)
 * Venue: The Australian National University (ANU), Canberra, Australia
 * Workshop date & time: 02/12/2025 & 9:00AM - 12:30PM
+    
+<div style="border:1px solid red; padding:10px; background-color:#ffe6e6; color:#b30000; font-weight:bold;">
+
+⚠️ **IMPORTANT FOR BLIND REVIEW**
+
+When using LaTeX, please set `\author{Anonymous}` and `\authorrunning{Anon}` to avoid revealing identifying information.  
+For the institution, use `\institute{Anonymous Institution}` to display anonymous affiliation.  
+Please also ensure that acknowledgments, funding information, and any other identifying details are removed from your submission.
+
+</div>
 
 <!-- We are  looking for new group members with passion, talent, and grit!
 
