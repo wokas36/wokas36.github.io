@@ -40,7 +40,7 @@ permalink: /call_for_papers/
 * Venue: The Australian National University (ANU), Canberra, Australia
 * Workshop date & time: 02/12/2025 & 9:00AM - 12:30PM
     
-<div style="border:1px solid red; padding:10px; background-color:#f5f5f5; color:#333; font-weight:bold;">
+<div style="border:1px solid blue; padding:10px; background-color:#f5f5f5; color:#333; font-weight:bold;">
 
 ⚠️ **IMPORTANT FOR BLIND REVIEW**
 
