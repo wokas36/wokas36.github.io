@@ -28,7 +28,7 @@ permalink: /workshop_schedule/
 | 12:25 – 12:30 PM    | **Closing Remarks**                                             | -->
 
 
----
+<!-- ---
 
 <details>
   <summary><strong>🔦 Spotlight Talks (10:15 AM – 10:45 AM)</strong>
@@ -43,7 +43,7 @@ permalink: /workshop_schedule/
 | 10:20 – 10:25 AM     | IQ-NET: A Deep Learning Approach for Fast and Accurate Phylogenetic Inference |
 | 10:25 – 10:30 AM     | Hierarchical Graph Network for Fullerene Energy Prediction                |
 | 10:30 – 10:35 AM     | Evolutionary Exploration with LLM-Generated Influenza Variants            |
-| 10:35 – 10:40 AM     | Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction |
+| 10:35 – 10:40 AM     | Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction | -->
 
 
 <!-- # AIML-CEB Workshop Schedule 2025 -->
@@ -51,7 +51,7 @@ permalink: /workshop_schedule/
 <!-- **Location:** ANU, Canberra  
 **Date:** 2 December 2025   -->
 
-<!--
+
 
 <details open>
   <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM)</strong>
@@ -131,4 +131,4 @@ permalink: /workshop_schedule/
       <td><strong>10:35 – 10:40 AM</strong></td>
       <td><em>Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction</em></td>
     </tr>
-  </table> -->
+  </table>
