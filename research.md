@@ -3,10 +3,10 @@ title: "AIML-CEB - Workshop Schedule"
 layout: textlay
 excerpt: "AIML-CEB - Workshop Schedule"
 sitemap: false
-permalink: /workshop_schedule/
+permalink: /schedule/
 ---
 
-# AIML-CEB Workshop Schedule 2025
+<!-- # AIML-CEB Workshop Schedule 2025 -->
      
 **Location:** ANU, Canberra  
 **Date:** 2 December 2025  
