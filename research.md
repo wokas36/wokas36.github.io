@@ -3,7 +3,7 @@ title: "AIML-CEB - Workshop Schedule"
 layout: textlay
 excerpt: "AIML-CEB - Workshop Schedule"
 sitemap: false
-permalink: /schedule/
+permalink: /workshop_schedule/
 ---
 
 <!-- # AIML-CEB Workshop Schedule 2025 -->
@@ -62,9 +62,9 @@ permalink: /schedule/
 <details>
   <summary><strong>🔦 Spotlight Talks (10:15 AM – 10:45 AM)</strong>
 
-  <br/>
-
   Each spotlight is a **5-minute oral pitch**, followed by discussion at the poster session.
+      
+  <br/>
 
   <table>
     <tr>
