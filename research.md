@@ -54,7 +54,7 @@ permalink: /workshop_schedule/
 <details open>
   <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM)</strong>
 
-  <br/>
+<!--   <br/> -->
 
   <table>
     <tr>
@@ -63,35 +63,35 @@ permalink: /workshop_schedule/
     </tr>
     <tr>
       <td><strong>09:00 – 09:05 AM</strong></td>
-      <td><strong>&nbsp;&nbsp; Opening Remarks</strong></td>
+      <td><em>&nbsp;&nbsp; Opening Remarks</em></td>
     </tr>
     <tr>
       <td><strong>09:05 – 09:35 AM</strong></td>
-      <td><strong>&nbsp;&nbsp; Keynote 1:</strong> A/Prof. Jean (Jiayu) Wen + Q&amp;A</td>
+      <td><em>&nbsp;&nbsp; Keynote 1:</em> A/Prof. Jean (Jiayu) Wen + Q&amp;A</td>
     </tr>
     <tr>
       <td><strong>09:35 – 10:05 AM</strong></td>
-      <td><strong>&nbsp;&nbsp; Keynote 2:</strong> Dr. Benjamin Goudey + Q&amp;A</td>
+      <td><em>&nbsp;&nbsp; Keynote 2:</em> Dr. Benjamin Goudey + Q&amp;A</td>
     </tr>
     <tr>
       <td><strong>10:05 – 10:15 AM</strong></td>
-      <td>&nbsp;&nbsp; ☕ <strong>Coffee Break</strong></td>
+      <td>&nbsp;&nbsp; ☕ <em>Coffee Break</em></td>
     </tr>
     <tr>
       <td><strong>10:15 – 10:45 AM</strong></td>
-      <td><strong>&nbsp;&nbsp; Spotlight Talks</strong> (5 × 5-minute pitches)</td>
+      <td><em>&nbsp;&nbsp; Spotlight Talks</em> (5 × 5-minute pitches)</td>
     </tr>
     <tr>
       <td><strong>10:45 – 11:30 AM</strong></td>
-      <td>&nbsp;&nbsp; ☕ <strong>Coffee Break &amp; Poster Session</strong></td>
+      <td>&nbsp;&nbsp; ☕ <em>Coffee Break &amp; Poster Session</em></td>
     </tr>
     <tr>
       <td><strong>11:30 – 12:25 PM</strong></td>
-      <td><strong>&nbsp;&nbsp; Panel Discussion &amp; Career Pathways Session</strong></td>
+      <td><em>&nbsp;&nbsp; Panel Discussion &amp; Career Pathways Session</em></td>
     </tr>
     <tr>
       <td><strong>12:25 – 12:30 PM</strong></td>
-      <td><strong>&nbsp;&nbsp; Closing Remarks</strong></td>
+      <td><em>&nbsp;&nbsp; Closing Remarks</em></td>
     </tr>
   </table>
 
@@ -102,7 +102,7 @@ permalink: /workshop_schedule/
 
   Each spotlight is a **5-minute oral pitch**, followed by discussion at the poster session.
       
-  <br/>
+<!--   <br/> -->
 
   <table>
     <tr>
