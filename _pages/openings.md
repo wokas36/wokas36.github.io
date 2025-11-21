@@ -58,7 +58,7 @@ Please also ensure that acknowledgments, funding information, and any other iden
 ---
 
 <details open>
-  <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM)</strong></summary>
+  <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM)</strong>
 
   <br/>
 
@@ -101,12 +101,10 @@ Please also ensure that acknowledgments, funding information, and any other iden
     </tr>
   </table>
 
-</details>
-
 ---
 
 <details>
-  <summary><strong>🔦 Spotlight Talks (10:15 AM – 10:45 AM)</strong></summary>
+  <summary><strong>🔦 Spotlight Talks (10:15 AM – 10:45 AM)</strong>
 
   <br/>
 
@@ -138,8 +136,6 @@ Please also ensure that acknowledgments, funding information, and any other iden
       <td><em>Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction</em></td>
     </tr>
   </table>
-
-</details>
 
 
 <!-- We are  looking for new group members with passion, talent, and grit!
