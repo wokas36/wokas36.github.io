@@ -71,32 +71,13 @@ permalink: /workshop_schedule/
 
   Each spotlight is a **5-minute oral pitch**, followed by discussion at the poster session.
 
-  <table>
-    <tr>
-      <th align="left">Time</th>
-      <th align="left">Title</th>
-    </tr>
-    <tr>
-      <td><strong>10:15 – 10:20 AM</strong></td>
-      <td><em>Active Flow Matching</em></td>
-    </tr>
-    <tr>
-      <td><strong>10:20 – 10:25 AM</strong></td>
-      <td><em>IQ-NET: A Deep Learning Approach for Fast and Accurate Phylogenetic Inference</em></td>
-    </tr>
-    <tr>
-      <td><strong>10:25 – 10:30 AM</strong></td>
-      <td><em>Hierarchical Graph Network for Fullerene Energy Prediction</em></td>
-    </tr>
-    <tr>
-      <td><strong>10:30 – 10:35 AM</strong></td>
-      <td><em>Evolutionary Exploration with LLM-Generated Influenza Variants</em></td>
-    </tr>
-    <tr>
-      <td><strong>10:35 – 10:40 AM</strong></td>
-      <td><em>Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction</em></td>
-    </tr>
-  </table>
+  | Time                 | Title                                                                    |
+|----------------------|---------------------------------------------------------------------------|
+| 10:15 – 10:20 AM     | Active Flow Matching                                                      |
+| 10:20 – 10:25 AM     | IQ-NET: A Deep Learning Approach for Fast and Accurate Phylogenetic Inference |
+| 10:25 – 10:30 AM     | Hierarchical Graph Network for Fullerene Energy Prediction                |
+| 10:30 – 10:35 AM     | Evolutionary Exploration with LLM-Generated Influenza Variants            |
+| 10:35 – 10:40 AM     | Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction |
 
 </details>
 
