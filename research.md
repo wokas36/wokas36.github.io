@@ -6,7 +6,8 @@ sitemap: false
 permalink: /workshop_schedule/
 ---
 
-**Location:** Track C - Workshop 3: Darama Theatre (ANU) 
+**Location:** Track C - Workshop 3: Darama Theatre (ANU)
+
 **Date:** 2 December 2025  
 
 ---
