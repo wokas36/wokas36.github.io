@@ -12,7 +12,7 @@ permalink: /workshop_schedule/
 ---
 
 <details open>
-  <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM)</strong>
+  <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM) *</strong>
 
 <br/>
 
@@ -37,7 +37,7 @@ permalink: /workshop_schedule/
     
   <br/>
 
-| **Time**             | **Title**                                                                    |
+| **Time**             | **Title**                                                                 |
 |----------------------|---------------------------------------------------------------------------|
 | 10:15 – 10:20 AM     | Active Flow Matching                                                      |
 | 10:20 – 10:25 AM     | IQ-NET: A Deep Learning Approach for Fast and Accurate Phylogenetic Inference |
