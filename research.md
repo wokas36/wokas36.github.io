@@ -51,8 +51,6 @@ permalink: /workshop_schedule/
 <!-- **Location:** ANU, Canberra  
 **Date:** 2 December 2025   -->
 
-
-
 <details open>
   <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM)</strong>
 
