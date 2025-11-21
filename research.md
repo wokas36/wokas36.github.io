@@ -11,7 +11,7 @@ permalink: /workshop_schedule/
 
 ---
 
-<details open>
+<!-- <details open>
   <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM) *</strong>
 
 <br/>
@@ -25,7 +25,7 @@ permalink: /workshop_schedule/
 | 10:15 – 10:45 AM    | **Spotlight Talks** (5 × 5-minute pitches)                      |
 | 10:45 – 11:30 AM    | ☕ **Coffee Break & Poster Session**                             |
 | 11:30 – 12:25 PM    | **Panel Discussion & Career Pathways Session**                  |
-| 12:25 – 12:30 PM    | **Closing Remarks**                                             |
+| 12:25 – 12:30 PM    | **Closing Remarks**                                             | -->
 
 
 ---
