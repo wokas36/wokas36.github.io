@@ -6,60 +6,18 @@ sitemap: false
 permalink: /workshop_schedule/
 ---
 
-**Location:** ANU, Canberra  
+**Location:** Track C - Workshop 3: Darama Theatre (ANU) 
 **Date:** 2 December 2025  
 
 ---
 
-<!-- <details open>
-  <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM) *</strong>
-
-<br/>
-
-| **Time**            | **Session**                                                     |
-|---------------------|-----------------------------------------------------------------|
-| 09:00 – 09:05 AM    | **Opening Remarks**                                             |
-| 09:05 – 09:35 AM    | **Keynote 1:** A/Prof. Jean (Jiayu) Wen + Q&A                   |
-| 09:35 – 10:05 AM    | **Keynote 2:** Dr. Benjamin Goudey + Q&A                        |
-| 10:05 – 10:15 AM    | ☕ **Coffee Break**                                              |
-| 10:15 – 10:45 AM    | **Spotlight Talks** (5 × 5-minute pitches)                      |
-| 10:45 – 11:30 AM    | ☕ **Coffee Break & Poster Session**                             |
-| 11:30 – 12:25 PM    | **Panel Discussion & Career Pathways Session**                  |
-| 12:25 – 12:30 PM    | **Closing Remarks**                                             | -->
-
-
-<!-- ---
-
-<details>
-  <summary><strong>🔦 Spotlight Talks (10:15 AM – 10:45 AM)</strong>
-
-  Each spotlight is a **5-minute oral pitch**, followed by discussion at the poster session.
-    
-  <br/>
-
-| **Time**             | **Title**                                                                 |
-|----------------------|---------------------------------------------------------------------------|
-| 10:15 – 10:20 AM     | Active Flow Matching                                                      |
-| 10:20 – 10:25 AM     | IQ-NET: A Deep Learning Approach for Fast and Accurate Phylogenetic Inference |
-| 10:25 – 10:30 AM     | Hierarchical Graph Network for Fullerene Energy Prediction                |
-| 10:30 – 10:35 AM     | Evolutionary Exploration with LLM-Generated Influenza Variants            |
-| 10:35 – 10:40 AM     | Hierarchical Sampling vs. Random Selection for Protein Fitness Prediction | -->
-
-
-<!-- # AIML-CEB Workshop Schedule 2025 -->
-     
-<!-- **Location:** ANU, Canberra  
-**Date:** 2 December 2025   -->
-
 <details open>
   <summary><strong>📅 Full Workshop Schedule (09:00 AM – 12:30 PM)</strong>
-
-<!--   <br/> -->
 
   <table>
     <tr>
       <th align="left">Time</th>
-      <th align="left">Session</th>
+      <th align="left">&nbsp;&nbsp; Session</th>
     </tr>
     <tr>
       <td><strong>09:00 – 09:05 AM</strong></td>
@@ -101,13 +59,11 @@ permalink: /workshop_schedule/
   <summary><strong>🔦 Spotlight Talks (10:15 AM – 10:45 AM)</strong>
 
   Each spotlight is a **5-minute oral pitch**, followed by discussion at the poster session.
-      
-<!--   <br/> -->
 
   <table>
     <tr>
       <th align="left">Time</th>
-      <th align="left">Title</th>
+      <th align="left">&nbsp;&nbsp; Title</th>
     </tr>
     <tr>
       <td><strong>10:15 – 10:20 AM</strong></td>
